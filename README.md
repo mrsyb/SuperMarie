@@ -34,14 +34,14 @@
        green: you need collect them.
        the other: poison.
 ## Some bugs -- VERY IMPORTANT!
-### 1. Do you want to close window? HA.. NOWAY!
+### 1. Do you want to close window? 
        Some times, you will find that you can not close the game window. 
        Cross button, ESC or Exit selection in menu, whatever is invalid.
        But there is a way to handle it. The task manager!
 ### 2. Hey! Myrio! Where are you?
        When you squat and jump, the myrio may disapear when he arrive floor. 
        The reason is the mistake of texture manager. 
-       It's easy to fix it, but i didn't do that. So what? Come here and hit my face!HAHAHA.
+       It's easy to fix it, but i didn't do that.
 ### 3. Through the wall!
        If you are lucky, you can jump into the wall! But you can not move like Mario on FC.
 ## Principle -- MOST IMPORTANT
@@ -54,9 +54,7 @@
         It can not be useed by other program. It's not right.
 ### 3. Use a virtual destructor
 ## Preview
-![image](https://raw.githubusercontent.com/YaJinK/Super-Myrio/master/preview/1.JPG)
-![image](https://raw.githubusercontent.com/YaJinK/Super-Myrio/master/preview/2.JPG)
-![image](https://raw.githubusercontent.com/YaJinK/Super-Myrio/master/preview/3.JPG)
-![image](https://raw.githubusercontent.com/YaJinK/Super-Myrio/master/preview/4.JPG)
-## Next game
-    Counter-Strike (Local Edition)
+![image](https://github.com/mr-syb/SuperMarie/blob/master/preview/1.JPG)
+![image](https://github.com/mr-syb/SuperMarie/blob/master/preview/2.JPG)
+![image](https://github.com/mr-syb/SuperMarie/blob/master/preview/3.JPG)
+![image](https://github.com/mr-syb/SuperMarie/blob/master/preview/4.JPG)
